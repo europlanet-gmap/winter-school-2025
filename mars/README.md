@@ -25,6 +25,12 @@
 
 This workshop will cover Mars exploration and 3D visualization techniques using **VRGS**. Participants will gain insights into **Mars research** and have hands-on experience with VRGS applications in planetary science.
 
+---
+
+# Mars CRS
+
+CRS is available [here](https://github.com/europlanet-gmap/winter-school-2025/tree/main/crs#mars-mapping-project)
+---
 
 # Mars Data
 
