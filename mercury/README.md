@@ -31,4 +31,4 @@ This workshop will provide an in-depth understanding of **Mercury**, focusing on
 
 # Mercury Data
 
-A repository containing data for the Mercury mapping project is available at [GMAP Winter School 2025. QGIS training material: Lermontov crater (Mercury)](https://zenodo.org/records/14755384)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14755384.svg)](https://doi.org/10.5281/zenodo.14755384)
